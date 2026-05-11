@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Aymeric Melotti
+N:Melotti;Aymeric;;;
+ORG:Digital Valley
+TITLE:DIRECTEUR COMMERCIAL
+TEL;TYPE=CELL:+33759549822
+EMAIL;TYPE=INTERNET:a.melotti@digital-valley.fr
+URL:https://digital-valley.fr
+ADR;TYPE=WORK:;Espace Aliénor;255 rue Martha Desrumaux;Périgueux;;24000;France
+LABEL;TYPE=WORK:Espace Aliénor\n255 rue Martha Desrumaux\n24000 Périgueux
+END:VCARD
