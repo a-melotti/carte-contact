@@ -9,8 +9,8 @@ TEL;TYPE=CELL:+33759549822
 TEL;TYPE=WORK,VOICE:+33547678086
 EMAIL;TYPE=INTERNET,WORK:a.melotti@digital-valley.fr
 URL;TYPE=WORK:https://digital-valley.fr
-URL;TYPE=HOME;X-ABLabel=Prenons RDV des maintenant:https://lc.cx/rdv-aymeri
- c-digitalvalley
+item1.URL:https://lc.cx/rdv-aymeric-digitalvalley
+item1.X-ABLabel:Prenons RDV des maintenant
 ADR;TYPE=WORK:;;255 rue Martha Desrumaux;Perigueux;;24000;France
 PHOTO;TYPE=JPEG;ENCODING=b:/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsO
  Dg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2
