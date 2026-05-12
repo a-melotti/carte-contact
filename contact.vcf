@@ -7,6 +7,8 @@ TITLE:DIRECTEUR COMMERCIAL
 TEL;TYPE=CELL:+33759549822
 EMAIL;TYPE=INTERNET:a.melotti@digital-valley.fr
 URL:https://digital-valley.fr
+item1.URL:https://outlook.office.com/bookwithme/user/948aed97d6294119b698e5947679de70@digital-valley.fr?anonymous&ep=plink
+item1.X-ABLabel:Prendre rendez-vous
 ADR;TYPE=WORK:;Espace Aliénor;255 rue Martha Desrumaux;Périgueux;;24000;France
-LABEL;TYPE=WORK:Espace Aliénor\n255 rue Martha Desrumaux\n24000 Périgueux
+PHOTO;TYPE=JPEG;VALUE=URI:https://media.licdn.com/dms/image/v2/D4E03AQHZbArFoh_FgA/profile-displayphoto-crop_800_800/B4EZy4jwDIHkAI-/0/1772622907553?e=1779926400&v=beta&t=Erb6v3fA0pPcntP5ziFf_AEKKV80LaxeaF64sa47BgM
 END:VCARD
