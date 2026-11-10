@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Agence Symbiose//Contact Alan Piron-Lafleur//FR
+N:Piron-Lafleur;Alan;;;
+FN:Alan Piron-Lafleur
+ORG:Agence Symbiose
+ROLE:Développement de webapp sur mesure
+TEL;TYPE=CELL:+33662671678
+EMAIL;TYPE=INTERNET,WORK:Alan@agence-symbiose.fr
+NOTE:Développement de webapp sur mesure
+END:VCARD
